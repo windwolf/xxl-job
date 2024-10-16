@@ -1,3 +1,12 @@
+fork自<a href="https://github.com/xuxueli/xxl-job">
+在此基础上增强了客户端手动触发相关特性, 包括:
+- 对客户端类型用户的支持;
+- 增强任务触发api. (返回logid)
+- 开放任务触发以及log查询相关api
+
+--------
+以下是原始项目说明:
+
 <p align="center" >
     <img src="https://www.xuxueli.com/doc/static/xxl-job/images/xxl-logo.jpg" width="150">
     <h3 align="center">XXL-JOB</h3>
